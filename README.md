@@ -97,6 +97,6 @@ Shashwat Khandelwal
 🎓 B.Tech Computer Science Student | 💻 MERN Stack Developer
 
 🔗 [GitHub Repository](https://github.com/SHASHWAT13244/MERN-RECIPE-APP)  
-🔗 [Live Demo](https://mern-recipe-app-iph5.onrender.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-khandelwal-a0564532b/)
 
 > "MERN Recipe App reflects my dedication to building clean, efficient, and user-friendly full-stack applications."
