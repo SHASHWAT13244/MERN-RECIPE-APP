@@ -76,12 +76,7 @@ mern-recipe-app/
 │ │ ├── App.js # Main React component
 │ │ └── index.js # React DOM render
 │ └── package.json # Frontend dependencies
-│
-└── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
