@@ -29,7 +29,10 @@ Built to demonstrate full-stack development with RESTful APIs, MongoDB persisten
 - Create new recipes with detailed titles, ingredients, and cooking instructions  
 - Edit and update existing recipes easily  
 - Delete recipes you no longer want  
-- View a list of all recipes with essential details at a glance  
+- View a list of all recipes with essential details at a glance
+
+  🔎 **Filter Recipes**  
+- Filter recipes to quickly find what you’re craving  
 
 📱 **Responsive Design**  
 - Fully responsive UI optimized for desktop, tablet, and mobile devices  
